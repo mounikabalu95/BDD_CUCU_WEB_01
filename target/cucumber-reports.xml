@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="9.772" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-03-27T10:08:21.218707100Z">
+<testcase classname="Input Workflow" name="Display the Input" time="9.63">
+<system-out><![CDATA[
+Given Open the application..................................................passed
+When Select the task........................................................passed
+Then Select the value.......................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
