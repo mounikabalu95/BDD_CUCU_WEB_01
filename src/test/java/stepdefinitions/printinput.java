@@ -1,4 +1,4 @@
-package stepdefinitions;
+package stepDefinitions;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -14,7 +14,7 @@ public class printinput {
     inputvariables getinput = new inputvariables(driver);
 
     // inputvariables value = new inputvariables(driver);
-    @Given("Open the application")
+    @Given("Open the app")
     public void open_the_application() {
         getinput.getUrl();
     }
